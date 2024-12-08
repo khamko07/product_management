@@ -41,6 +41,16 @@ CREATE TABLE `products` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 ```
 
+
+## Screenshots
+
+
+![Pagination for product listing](img/Pagination%20for%20product%20listing.jpg)
+![Add new products](img/Add%20new%20products.jpg)
+![Delete products](img/Delete%20products.jpg)
+![Edit existing products](img/Edit%20existing%20products.jpg)
+
+
 ## License
 
 This project is licensed Khamko
