@@ -1,5 +1,4 @@
 
-```markdown
 # Product Management System
 
 This is a simple CRUD (Create, Read, Update, Delete) application for managing products. It is built using PHP and MySQL.
@@ -44,5 +43,4 @@ CREATE TABLE `products` (
 ## License
 
 This project is licensed Khamko
-```
 
